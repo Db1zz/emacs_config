@@ -1,0 +1,3 @@
+[submodule "emacs_dependencies/gruber-darker-theme"]
+	path = emacs_dependencies/gruber-darker-theme
+	url = https://github.com/rexim/gruber-darker-theme
